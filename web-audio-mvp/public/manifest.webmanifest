@@ -1,0 +1,9 @@
+{
+  "name": "Web Audio MVP",
+  "short_name": "AudioMVP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Captura y reproducción en bloques con Web Audio",
+  "icons": []
+}
